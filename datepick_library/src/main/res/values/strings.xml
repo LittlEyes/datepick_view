@@ -1,0 +1,4 @@
+<resources>
+    <string name="sans_serif" translatable="false">sans-serif</string>
+    <string name="app_name">datepick</string>
+</resources>
